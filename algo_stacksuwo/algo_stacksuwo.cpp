@@ -52,4 +52,8 @@ public:
 	}
 };
 
+int main() {
+
+}
+
 
