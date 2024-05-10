@@ -95,6 +95,7 @@ int main() {
 		cout << "invalid Choice. Try Again." << endl;
 		break;
 	}
+	cout << endl;
 }
 
 
