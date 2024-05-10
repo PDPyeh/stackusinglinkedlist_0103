@@ -64,6 +64,7 @@ int main() {
 		cout << "3. Peek\n";
 		cout << "4. Exit\n";
 		cout << "ENTER YOUR CHOICE : ";
+		cin >> choice;
 
 
 		switch (choice) {
